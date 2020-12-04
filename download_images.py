@@ -1,3 +1,5 @@
+# This script download images from the given links
+
 import requests
 import time 
 
